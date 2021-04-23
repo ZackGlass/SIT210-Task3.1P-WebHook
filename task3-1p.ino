@@ -8,7 +8,6 @@ String data;
 
 void setup() {
     
-    Serial.begin(9600);
     dht.begin();
 
 }
